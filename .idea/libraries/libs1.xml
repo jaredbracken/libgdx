@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-tools/libs/TWLThemeEditor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-tools/libs/JavaFreeType.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-tools/libs/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-tools/libs/xpp3-1.1.4c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

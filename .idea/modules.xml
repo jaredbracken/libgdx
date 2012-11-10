@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demos/cuboc/cuboc/Cuboc.iml" filepath="$PROJECT_DIR$/demos/cuboc/cuboc/Cuboc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/cuboc/cuboc-android/Cuboc-android.iml" filepath="$PROJECT_DIR$/demos/cuboc/cuboc-android/Cuboc-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/cuboc/cuboc-html/Cuboc-html.iml" filepath="$PROJECT_DIR$/demos/cuboc/cuboc-html/Cuboc-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/box2d-editor/editor/Editor.iml" filepath="$PROJECT_DIR$/extensions/box2d-editor/editor/Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/box2d-editor/fixtureatlas/Fixtureatlas.iml" filepath="$PROJECT_DIR$/extensions/box2d-editor/fixtureatlas/Fixtureatlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/box2d-editor/fixtureatlas-test/Fixtureatlas-test.iml" filepath="$PROJECT_DIR$/extensions/box2d-editor/fixtureatlas-test/Fixtureatlas-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdx/Gdx.iml" filepath="$PROJECT_DIR$/gdx/Gdx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-audio/Gdx-audio.iml" filepath="$PROJECT_DIR$/extensions/gdx-audio/Gdx-audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-android/Gdx-backend-android.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-android/Gdx-backend-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/Gdx-backend-iosmonotouch.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/Gdx-backend-iosmonotouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-lwjgl/Gdx-backend-lwjgl.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-lwjgl/Gdx-backend-lwjgl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backends-gwt/Gdx-backends-gwt.iml" filepath="$PROJECT_DIR$/backends/gdx-backends-gwt/Gdx-backends-gwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-bullet/Gdx-bullet.iml" filepath="$PROJECT_DIR$/extensions/gdx-bullet/Gdx-bullet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-freetype/Gdx-freetype.iml" filepath="$PROJECT_DIR$/extensions/gdx-freetype/Gdx-freetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-image/Gdx-image.iml" filepath="$PROJECT_DIR$/extensions/gdx-image/Gdx-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/invaders/gdx-invaders/Gdx-invaders.iml" filepath="$PROJECT_DIR$/demos/invaders/gdx-invaders/Gdx-invaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/invaders/gdx-invaders-android/Gdx-invaders-android.iml" filepath="$PROJECT_DIR$/demos/invaders/gdx-invaders-android/Gdx-invaders-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/invaders/gdx-invaders-html5/Gdx-invaders-html5.iml" filepath="$PROJECT_DIR$/demos/invaders/gdx-invaders-html5/Gdx-invaders-html5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-jnigen/Gdx-jnigen.iml" filepath="$PROJECT_DIR$/extensions/gdx-jnigen/Gdx-jnigen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-openal/Gdx-openal.iml" filepath="$PROJECT_DIR$/backends/gdx-openal/Gdx-openal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-remote/Gdx-remote.iml" filepath="$PROJECT_DIR$/extensions/gdx-remote/Gdx-remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-setup-ui/Gdx-setup-ui.iml" filepath="$PROJECT_DIR$/extensions/gdx-setup-ui/Gdx-setup-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/gdx-tests/Gdx-tests.iml" filepath="$PROJECT_DIR$/tests/gdx-tests/Gdx-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/gdx-tests-android/Gdx-tests-android.iml" filepath="$PROJECT_DIR$/tests/gdx-tests-android/Gdx-tests-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/gdx-tests-gwt/Gdx-tests-gwt.iml" filepath="$PROJECT_DIR$/tests/gdx-tests-gwt/Gdx-tests-gwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/gdx-tests-lwjgl/Gdx-tests-lwjgl.iml" filepath="$PROJECT_DIR$/tests/gdx-tests-lwjgl/Gdx-tests-lwjgl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/Gdx-texturepacker-gui.iml" filepath="$PROJECT_DIR$/extensions/gdx-texturepacker-gui/Gdx-texturepacker-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-tiled-preprocessor/Gdx-tiled-preprocessor.iml" filepath="$PROJECT_DIR$/extensions/gdx-tiled-preprocessor/Gdx-tiled-preprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-tokamak/Gdx-tokamak.iml" filepath="$PROJECT_DIR$/extensions/gdx-tokamak/Gdx-tokamak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-tools/Gdx-tools.iml" filepath="$PROJECT_DIR$/extensions/gdx-tools/Gdx-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/vector-pinball/gdx-vectorpinball/Gdx-vectorpinball.iml" filepath="$PROJECT_DIR$/demos/vector-pinball/gdx-vectorpinball/Gdx-vectorpinball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/vector-pinball/gdx-vectorpinball-android/Gdx-vectorpinball-android.iml" filepath="$PROJECT_DIR$/demos/vector-pinball/gdx-vectorpinball-android/Gdx-vectorpinball-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/vector-pinball/gdx-vectorpinball-html5/Gdx-vectorpinball-html5.iml" filepath="$PROJECT_DIR$/demos/vector-pinball/gdx-vectorpinball-html5/Gdx-vectorpinball-html5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-bullet/jni/Jni.iml" filepath="$PROJECT_DIR$/extensions/gdx-bullet/jni/Jni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/metagun/metagun-android/Metagun-android.iml" filepath="$PROJECT_DIR$/demos/metagun/metagun-android/Metagun-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/metagun/metagun-desktop/Metagun-desktop.iml" filepath="$PROJECT_DIR$/demos/metagun/metagun-desktop/Metagun-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/model-loaders/model-loaders/Model-loaders.iml" filepath="$PROJECT_DIR$/extensions/model-loaders/model-loaders/Model-loaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/model-loaders/model-loaders-android/Model-loaders-android.iml" filepath="$PROJECT_DIR$/extensions/model-loaders/model-loaders-android/Model-loaders-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/pax-britannica/pax-britannica/Pax-britannica.iml" filepath="$PROJECT_DIR$/demos/pax-britannica/pax-britannica/Pax-britannica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/pax-britannica/pax-britannica-android/Pax-britannica-android.iml" filepath="$PROJECT_DIR$/demos/pax-britannica/pax-britannica-android/Pax-britannica-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/pax-britannica/pax-britannica-html/Pax-britannica-html.iml" filepath="$PROJECT_DIR$/demos/pax-britannica/pax-britannica-html/Pax-britannica-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/superjumper/superjumper/Superjumper.iml" filepath="$PROJECT_DIR$/demos/superjumper/superjumper/Superjumper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/superjumper/superjumper-android/Superjumper-android.iml" filepath="$PROJECT_DIR$/demos/superjumper/superjumper-android/Superjumper-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/superjumper/superjumper-html/Superjumper-html.iml" filepath="$PROJECT_DIR$/demos/superjumper/superjumper-html/Superjumper-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/very-angry-robots/very-angry-robots/Very-angry-robots.iml" filepath="$PROJECT_DIR$/demos/very-angry-robots/very-angry-robots/Very-angry-robots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/very-angry-robots/very-angry-robots-android/Very-angry-robots-android.iml" filepath="$PROJECT_DIR$/demos/very-angry-robots/very-angry-robots-android/Very-angry-robots-android.iml" />
+    </modules>
+  </component>
+</project>
+

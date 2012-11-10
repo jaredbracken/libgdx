@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="monotouch-jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/libs/monotouch-jars/mscorlib-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/libs/monotouch-jars/monotouch-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/libs/monotouch-jars/system-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/libs/monotouch-jars/opentk-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/libs/monotouch-jars/system-data-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backend-iosmonotouch/libs/monotouch-jars/system-core-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

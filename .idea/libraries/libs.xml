@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/tween-engine-api-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/css-engine-swing-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/gdx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/commons-io-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/gdx-backend-lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/gdx-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/gdx-backend-lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/gdx-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/commons-io-2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/css-engine-swing-api-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/tween-engine-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/gdx-texturepacker-gui/libs/gdx-backend-lwjgl-natives.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

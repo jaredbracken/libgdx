@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/extensions/sources/gdx-audio-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/extensions/sources/gdx-jnigen-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backends-gwt/libs/gwt-dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-backends-gwt/libs/gwt-user.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="extensions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/extensions/gdx-jnigen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/extensions/gdx-audio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/extensions/gdx-audio-natives.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

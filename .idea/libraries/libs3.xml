@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backends/gdx-openal/libs/jlayer-1.0.1-libgdx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-openal/libs/jlayer-1.0.1-libgdx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-openal/libs/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-openal/libs/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backends/gdx-openal/libs/jorbis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
